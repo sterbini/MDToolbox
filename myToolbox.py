@@ -1,3 +1,4 @@
+# This sucks!
 
 print('Version 0.03. This is the latest version.')
 print('Please help me to improve it reporting bugs to guido.sterbini@cern.ch.')
